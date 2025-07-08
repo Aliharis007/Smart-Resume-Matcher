@@ -122,7 +122,7 @@ streamlit run streamlit_app.py
 
 ![Smart Resume Matcher Demo](demo.jpeg)
 
-![GROQ Response Demo](ai_response.jpg)
+![GROQ Response Demo](ai_response2.jpg)
 ---
 
 ## ✅ Installation
