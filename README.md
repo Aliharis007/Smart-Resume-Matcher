@@ -38,7 +38,6 @@ This project automatically checks how well a resume matches a job description us
 | 🧮 Cosine Similarity | Similarity metric |
 | 🌐 Streamlit | Web UI |
 | 🛠 .env + dotenv | API key management |
-| 🧪 unittest (optional) | For testing |
 
 ---
 
@@ -121,7 +120,7 @@ streamlit run streamlit_app.py
 
 ## 🖥 Demo Screenshot
 
-<img src="https://user-images.githubusercontent.com/https://1drv.ms/i/c/14a62275701c7a4c/ES57-XkD2HFEsSVtLCJZILQBo8Bi45Og5GMlPMgojAs4TQ?e=100wFR" alt="Streamlit Demo" width="800"/>
+![Smart Resume Matcher Demo](demo.png)
 
 ---
 
@@ -166,15 +165,6 @@ sentence-transformers
 tensorflow
 python-dotenv
 ```
-
----
-
-## 🌟 Future Improvements
-
-* Add OpenAI/Groq-based response generation
-* Enable saving matching reports
-* Resume feedback suggestions using LLMs
-* Browser-based JD extraction (LinkedIn/Indeed scraping)
 
 ---
 
