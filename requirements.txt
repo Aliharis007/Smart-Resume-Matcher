@@ -1,0 +1,10 @@
+python-dotenv
+PyPDF2
+transformers
+sentence-transformers
+scikit-learn
+langchain
+langchain-groq
+streamlit
+numpy
+tensorflow

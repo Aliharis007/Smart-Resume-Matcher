@@ -1,0 +1,2 @@
+We are looking for a Python developer with experience in NLP, machine learning, and data science.
+The candidate should be familiar with building APIs, using transformers, and handling large datasets.
