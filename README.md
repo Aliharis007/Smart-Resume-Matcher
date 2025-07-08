@@ -120,7 +120,7 @@ streamlit run streamlit_app.py
 
 ## 🖥 Demo Screenshot
 
-![Smart Resume Matcher Demo](demo.png)
+![Smart Resume Matcher Demo](ai_response.jpg)
 
 ---
 
